@@ -219,7 +219,7 @@ def HouseModelPrediction(request):
 ```
 
 ## PYTHON CODE:
-![output](./static/img/python3.png)
+![output](./static/images/python3.png)
 
 ## OUTPUT:
 ![output](./static/images/image(1).png)
